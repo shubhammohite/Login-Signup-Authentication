@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "id": "shubham",
+      "userPassword": "Mychamp@12345",
+      "userEmail": "shubh90@gmail.com",
+      "userGender": "male",
+      "userMobileNo": "7856565222",
+      "UserRole": "admin",
+      "isActive":true
+    }
+  ]
+}
